@@ -8,4 +8,5 @@
 + adding photos
 + like and delete photos
 + edit profile
-+ custom form validation
++ custom form validation ( JavaScript (ES6+) )
++ open photos in full screen
